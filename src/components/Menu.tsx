@@ -1,6 +1,7 @@
 import Link from 'next/link';
 
 const Menu = () => {
+
     return (
         <menu className='w-72 mx-auto text-center pt-10'>
             <ul>

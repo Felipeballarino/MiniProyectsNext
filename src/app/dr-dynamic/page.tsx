@@ -1,4 +1,4 @@
-/* eslint-disable @next/next/no-img-element */
+
 // import Loader from '@/components/dragonBall/Loader';
 import Card from '@/components/dragonBall/Card';
 import { Characters, Item } from '@/models/Characters.model';
